@@ -1,4 +1,4 @@
 # Social-Media-With-MERN-Stack
 
 
-Ekran görüntüleri Screenshots dizininde mevcuttur.
+Örnek ekran görüntüleri Screenshots dizininde mevcuttur.
