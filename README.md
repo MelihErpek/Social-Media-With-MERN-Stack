@@ -1,4 +1,3 @@
 # Social-Media-With-MERN-Stack
 
-
-Örnek ekran görüntüleri Screenshots dizininde mevcuttur.
+Made with MERN Stack (MongoDB , ExpressJS , ReactJS , NodeJS)
